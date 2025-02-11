@@ -100,11 +100,14 @@ GET https://api.openweathermap.org/data/2.5/weather?q=delhi&units=metric&appid=Y
 
 ## Screenshots
 
-### Search for Weather
-![Search bar](https://via.placeholder.com/600x300)
+### for cold Weather
+![image](https://github.com/user-attachments/assets/84f25c17-08f6-4140-8634-663b7b79ff4d)
 
-### Weather Display
-![Weather details](https://via.placeholder.com/600x300)
+
+### for warm weather
+![image](https://github.com/user-attachments/assets/2cba7477-eb8e-4922-b08a-f8becdc81048)
+
+
 
 ---
 
